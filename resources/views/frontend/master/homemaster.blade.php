@@ -49,7 +49,7 @@
                             <!-- Logo -->
                             <div class="col-xl-2 col-lg-2">
                                 <div class="logo">
-                                    <a href="home"><img src="assets/img/logo/distylogo.png" style="width: 90%" alt=""></a>
+                                    <a href="/"><img src="assets/img/logo/distylogo.png" style="width: 90%" alt=""></a>
                                 </div>
                             </div>
                             <div class="col-xl-10 col-lg-10">
@@ -58,7 +58,7 @@
                                     <div class="main-menu d-none d-lg-block">
                                         <nav>
                                             <ul id="navigation">                                                                                          
-                                                <li><a href="courses.html">Courses</a></li>
+                                                <li><a href="course">Courses</a></li>
                                                 <li><a href="about.html">About</a></li>
                                                 <li><a href="contact.html">Contact</a></li>
                                                 <!-- Button -->
@@ -110,7 +110,7 @@
                                 <img src="assets/img/icon/icon1.svg" alt="">
                             </div>
                             <div class="features-caption">
-                                <h3>10++ Pelatihan</h3>
+                                <h3>10++ Courses</h3>
                                 <p>The automated process all your website tasks.</p>
                             </div>
                         </div>
@@ -121,7 +121,7 @@
                                 <img src="assets/img/icon/icon2.svg" alt="">
                             </div>
                             <div class="features-caption">
-                                <h3>Expert instructors</h3>
+                                <h3>Expert Teachers</h3>
                                 <p>The automated process all your website tasks.</p>
                             </div>
                         </div>
@@ -132,7 +132,7 @@
                                 <img src="assets/img/icon/icon3.svg" alt="">
                             </div>
                             <div class="features-caption">
-                                <h3>Life time access</h3>
+                                <h3>2 Month Access</h3>
                                 <p>The automated process all your website tasks.</p>
                             </div>
                         </div>
@@ -146,7 +146,7 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-7 col-lg-8">
                         <div class="section-tittle text-center mb-55">
-                            <h2>Our featured courses</h2>
+                            <h2>Our Courses</h2>
                         </div>
                     </div>
                 </div>
@@ -384,7 +384,7 @@
                             <div class="single-footer-caption mb-30">
                                 <!-- logo -->
                                 <div class="footer-logo mb-25">
-                                    <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                                    <a href="home"><img src="assets/img/logo/distylogo.png" alt=""></a>
                                 </div>
                                 <div class="footer-tittle">
                                     <div class="footer-pera">
@@ -453,7 +453,7 @@
                         <div class="col-xl-12 ">
                             <div class="footer-copy-right text-center">
                                 <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                                  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                                  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with Disty Academy</a>
                                   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                               </div>
                           </div>
